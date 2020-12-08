@@ -1,18 +1,20 @@
 # 112-TP
 
 Hello and welcome to Ho Ho Home: the Santa Maze Game!
-This project was made by Sarah Chen.
+
+This project was created by Sarah Chen for her CMU 15-112 Fall 2020 Term Project.
 
 Game Description
-    Players will begin by being given the Christmas-themed background story and 
-    instructions. From there, players will choose a sled based on what features 
-    of the game they want to play with and then enter the sled’s respective mode. 
-    Though each mode has different features (e.g. compromised visibility or a 
-    pathfinding Grinch), the ultimate goal for each is still the same - solve the 
-    maze as quickly and accurately as possible. Players lose 10 presents every 
-    minute it takes them to solve the maze, and the final screen will display how 
-    many presents out of 100 they were able to deliver. A "telephone line" can be 
-    called where the solution path is revealed through a series of dots.
+
+Players will begin by being given the Christmas-themed background story and 
+instructions. From there, players will choose a sled based on what features 
+of the game they want to play with and then enter the sled’s respective mode. 
+Though each mode has different features (e.g. compromised visibility or a 
+pathfinding Grinch), the ultimate goal for each is still the same - solve the 
+maze as quickly and accurately as possible. Players lose 10 presents every 
+minute it takes them to solve the maze, and the final screen will display how 
+many presents out of 100 they were able to deliver. A "telephone line" can be 
+called where the solution path is revealed through a series of dots.
 
 How to run
 1) Make sure PIL/Pillow is installed. Refer to the following link if not:
