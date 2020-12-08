@@ -18,7 +18,13 @@ How to run
 1) Make sure PIL/Pillow is installed. Refer to the following link if not:
     https://www.cs.cmu.edu/~112/notes/notes-animations-part3.html#installingModules
 2) Download the code into one folder.
-3) Save the following images into the same folder as your Python code:
+3) Make sure the following files are in the same folder.
+    - main.py
+    - gameScreens.py
+    - mazeModes.py
+    - mazeGeneration.py
+    - cmu_112_graphics.py
+4) Save the following images into the same folder as your Python code:
     - sleigh1.png
     - sleigh2.png
     - sleigh3.png
@@ -29,11 +35,8 @@ How to run
     - candycane.png
     - title.png
     - background.png
-4) Run the following files in an editor (e.g. VSCode):
+5) Run the following file in an editor (e.g. VSCode):
     - main.py
-    - gameScreens.py
-    - mazeModes.py
-    - mazeGeneration.py
 
 Libraries Needed
 - PIL/Pillow
