@@ -39,6 +39,6 @@ Libraries Needed
 
 Shortcuts
     - When in any of the 3 Game Modes, pressing the '8', '9', and '0' key will take 
-    the player directly to Sled 1, Sled 2, and Sled 3's modes.
+      the player directly to Sled 1, Sled 2, and Sled 3's modes.
     - The 'Space' key will reveal the maze solution path.
     - The 'r' key regenerates the maze and restarts the game mode.
