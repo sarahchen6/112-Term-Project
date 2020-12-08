@@ -1,6 +1,7 @@
 # 112-TP
 
 Hello and welcome to Ho Ho Home: the Santa Maze Game!
+This project was made by Sarah Chen.
 
 Game Description
     Players will begin by being given the Christmas-themed background story and 
