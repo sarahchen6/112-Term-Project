@@ -34,7 +34,7 @@ class MyApp(ModalApp):
         app.timerMode = True
         app.timerDelay = 10
 
-        app.setActiveMode(app.finalScreen)
+        app.setActiveMode(app.titleScreen)
 
     def timerFired(app):
         app._activeMode.timerFired()
