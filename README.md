@@ -42,3 +42,4 @@ Shortcuts
   the player directly to Sled 1, Sled 2, and Sled 3's modes.
 - The 'Space' key will reveal the maze solution path.
 - The 'r' key regenerates the maze and restarts the game mode.
+- The 'e' key automatically ends the game.
