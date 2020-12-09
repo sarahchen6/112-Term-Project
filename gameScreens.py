@@ -11,6 +11,7 @@
 #       https://www.cs.cmu.edu/~112/notes/notes-animations-part3.html
 #   2)  used rgbString function from
 #       https://www.cs.cmu.edu/~112/notes/notes-graphics.html#customColors 
+#   3)  snowfall idea from Rachel Wilson
 #
 ########################################
 from cmu_112_graphics import *
