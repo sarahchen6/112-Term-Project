@@ -1,8 +1,8 @@
-# 112-TP
+# 15-112 Term Project
 
 Hello and welcome to Ho Ho Home: the Santa Maze Game!
 
-This project was created by Sarah Chen for her CMU 15-112 Fall 2020 Term Project.
+This project was created by Sarah Chen for my CMU 15-112 Fall 2020 Term Project. It contains roughly 1400 lines of python code.
 
 Game Description
 
