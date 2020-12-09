@@ -603,7 +603,7 @@ class FinalScreen(SleighScreen):
             canvas.create_oval(snowX-mode.snowR, snowY-mode.snowR, 
                             snowX+mode.snowR, snowY+mode.snowR,
                             fill='white',
-                            outline='gainsboro')
+                            outline='')
         # title
         canvas.create_text(mode.width/2, mode.height*3/10,
                             fill=mode.titleColor,
