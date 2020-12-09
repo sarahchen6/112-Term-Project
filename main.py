@@ -1,5 +1,6 @@
 ########################################
-#   Santa Maze Game (main.py)
+#   Ho Ho Home: the Santa Maze Game
+#   (main.py)
 #   By: Sarah Chen (sarahc2)
 ########################################
 #   Combine gameScreens and mazeModes
