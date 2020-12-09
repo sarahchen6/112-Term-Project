@@ -1,12 +1,15 @@
 ########################################
-#   Santa Maze Game (gameScreens.py)
+#   Ho Ho Home: the Santa Maze Game
+#   (gameScreens.py)
 #   By: Sarah Chen (sarahc2)
 ########################################
 #   Game Screens
 ########################################
 #
 #   Citations: 
-#   1)  used rgbString function from
+#   1)  incorporated subclassing ModalApp and Mode idea from
+#       https://www.cs.cmu.edu/~112/notes/notes-animations-part3.html
+#   2)  used rgbString function from
 #       https://www.cs.cmu.edu/~112/notes/notes-graphics.html#customColors 
 #
 ########################################
