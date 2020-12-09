@@ -1,8 +1,15 @@
 ########################################
-#   Santa Maze Game (mazeModes.py)
+#   Ho Ho Home: the Santa Maze Game
+#   (mazeModes.py)
 #   By: Sarah Chen (sarahc2)
 ########################################
 #   Maze Modes
+########################################
+#
+#   Citations: 
+#   1)  incorporated subclassing ModalApp and Mode idea from
+#       https://www.cs.cmu.edu/~112/notes/notes-animations-part3.html
+#
 ########################################
 from mazeGenerationAndSolution import *
 from cmu_112_graphics import *
@@ -68,7 +75,7 @@ class Maze(Mode):
         mode.lineWidth = mode.height / (mode.n * 10)
         mode.lineMargin = mode.lineWidth * 2 / 5
         mode.showSolution = False
-        mode.visibilityR = 5
+        mode.visibilityR = 17
         mode.mazeFontSize = int(min(mode.cellWidth, mode.cellHeight) / 3)
         mode.app.timeMin = 0
         mode.app.timeSec = 0
@@ -141,6 +148,11 @@ class Maze(Mode):
         elif (event.key == 's'):
             if (mode.visibilityR > 0):
                 mode.visibilityR -= 3
+        elif (event.key == 'e'):
+            Maze.resetTimer(mode)
+            mode.app.finalPresents = mode.app.presents
+            Maze.restartMaze(mode)
+            mode.app.setActiveMode(mode.app.finalScreen)
         elif (event.key == '1'):
             mode.n = 5
             Maze.restartMaze(mode)
