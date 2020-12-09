@@ -1,3 +1,6 @@
+### taken from Carnegie Mellon University's 15-112 course website
+### https://www.cs.cmu.edu/~112/notes/notes-animations-part1.html
+
 # cmu_112_graphics.py
 # version 0.8.6
 
