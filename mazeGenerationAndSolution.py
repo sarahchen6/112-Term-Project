@@ -1,5 +1,6 @@
 ########################################
-#   Santa Maze Game (mazeGenerationAndSolution.py)
+#   Ho Ho Home: the Santa Maze Game 
+#   (mazeGenerationAndSolution.py)
 #   By: Sarah Chen (sarahc2)
 ########################################
 #   Maze Generation & Solution
